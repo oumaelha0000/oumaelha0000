@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Master+2+AI+Student+at+FSBM+(Morocco);Looking+for+a+6-month+PFE+Internship+in+AI+/+MLOps;Passionate+about+Deep+Learning,+NLP,+and+Computer+Vision;Full-Stack+Developer+(Next.js,+FastAPI,+Laravel)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Master+2+AI+Student+at+FSBM+(Morocco);Looking+for+a+6-month+PFE+Internship+in+AI+/+MLOps;Passionate+about+Deep+Learning,+NLP,+and+Computer+Vision;Full-Stack+AI+Developer+(FastAPI,+Next.js,+Python)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,12 +31,12 @@ I am an ambitious AI Engineering Master's student with a solid foundation in bot
 
   <h4>🌐 Backend & Full-Stack Development</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=fastapi,django,nextjs,react,laravel,php,java,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,typescript,nodejs,django" />
   </p>
 
   <h4>🗄️ Databases & Cloud/DevOps</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,docker,git,github,vercel,linux" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,git,github,vercel,linux" />
   </p>
 </div>
 
@@ -61,15 +61,17 @@ I am an ambitious AI Engineering Master's student with a solid foundation in bot
 ### 📂 Featured Projects
 | Project | Description | Technologies |
 |---|---|---|
+| 🫀 **ECG Image Classification** | Deep Learning model for automatic diagnosis of heart diseases from ECG medical imaging. | `Python`, `Deep Learning`, `CNN` |
+| 🤖 **AI Academic Assistant** | Smart chatbot using RAG architecture, ChromaDB, and Google Gemini for academic support. | `FastAPI`, `Next.js`, `LangChain` |
+| 🌱 **Agrivision AI** | ML-powered AgTech platform for crop recommendation and plant health diagnostics. | `Python`, `Scikit-Learn`, `React` |
+| 🚗 **License Plate Recognition** | Computer vision pipeline for detecting and extracting text (OCR) from Moroccan license plates. | `OpenCV`, `YOLO`, `Deep Learning` |
 | 🧠 **ASR Model for Haitian Creole** | Automatic Speech Recognition model for Zanmi chatbot. | `Python`, `VastAi`, `NLP` |
-| 🛒 **E-Commerce Platforms** | Full-stack web platforms for skincare & supplements. | `Laravel`, `PHP`, `MySQL` |
-| 🍽️ **Restaurant Management App** | Web app for restaurant operations management. | `PHP`, `HTML/JS/CSS`, `MySQL` |
-| 🤖 **AI Master's Portfolio** | Advanced projects in Vision, Generative AI, and MLOps. | `Deep Learning`, `Computer Vision` |
+| ⛓️ **Blockchain Eval System** | Decentralized Web3 application for internship evaluation and credential management. | `Solidity`, `Web3.js`, `TypeScript` |
 
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com/in/oumaima-elhabti">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:omaimaelhabti6@gmail.com">
