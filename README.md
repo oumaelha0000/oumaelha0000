@@ -17,7 +17,7 @@ I am an ambitious AI Engineering Master's student with a solid foundation in bot
 - 🧠 **AI Focus:** Machine Learning, Deep Learning, NLP, Generative AI, Computer Vision, MLOps, and Big Data.
 - 💻 **Software Focus:** Full-stack development, distributed systems, and API design.
 - 🏆 **Certifications:** Data Science & Cloud Computing, Git/GitHub.
-- 🔍 **Current Goal:** Seeking a 6-month PFE Internship in AI / Data Engineering / MLOps (Morocco or France).
+- 🔍 **Current Goal:** Seeking a 6-month PFE Internship in AI / Data Engineering / MLOps.
 
 ---
 
