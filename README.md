@@ -1,42 +1,78 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Oumaima%20Elhabti&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20|%20Data%20Science%20|%20Full-Stack&descAlignY=51&descAlign=62" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Oumaima!+%F0%9F%91%8B;Master+2+AI+Student+%F0%9F%A4%96;Looking+for+a+PFE+Internship+%F0%9F%9A%80;Python+%7C+MLOps+%7C+Backend" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Master+2+AI+Student+at+FSBM+(Morocco);Looking+for+a+6-month+PFE+Internship+in+AI+/+MLOps;Passionate+about+Deep+Learning,+NLP,+and+Computer+Vision;Full-Stack+Developer+(Next.js,+FastAPI,+Laravel)" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 👩🏻‍💻 About Me
-I am a Master's student in **Artificial Intelligence** at FSBM, passionate about building intelligent systems and scalable backends. Currently looking for a **6-month PFE Internship** (Morocco/France) in AI, Data Science, or MLOps starting soon.
+### 💫 About Me
+I am an ambitious AI Engineering Master's student with a solid foundation in both **Artificial Intelligence** and **Software Engineering**. My dual background allows me to not only train robust machine learning models but also deploy them into production-ready full-stack applications.
 
-- 🔭 I’m currently working on advanced AI projects, NLP, and Computer Vision.
-- 💻 My tech stack includes building robust APIs and integrating machine learning models.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) | omaimaelhabti6@gmail.com
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**AI & Data Science**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Backend & Full-Stack**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- 🎓 **Education:** Master d'Excellence en IA at Université Hassan II (FSBM).
+- 🧠 **AI Focus:** Machine Learning, Deep Learning, NLP, Generative AI, Computer Vision, MLOps, and Big Data.
+- 💻 **Software Focus:** Full-stack development, distributed systems, and API design.
+- 🏆 **Certifications:** Data Science & Cloud Computing, Git/GitHub.
+- 🔍 **Current Goal:** Seeking a 6-month PFE Internship in AI / Data Engineering / MLOps (Morocco or France).
 
 ---
 
-### 📊 GitHub Stats (Auto-Updated)
+### 🚀 My Tech Stack
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=oumaelha0000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaelha0000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" />
+  <h4>🤖 AI, Data & Machine Learning</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,r,matlab" />
+  </p>
+
+  <h4>🌐 Backend & Full-Stack Development</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=fastapi,django,nextjs,react,laravel,php,java,cpp,c" />
+  </p>
+
+  <h4>🗄️ Databases & Cloud/DevOps</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,docker,git,github,vercel,linux" />
+  </p>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oumaelha0000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oumaelha0000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaelha0000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px"/>
+</div>
+
+---
+
+### 📂 Featured Projects
+| Project | Description | Technologies |
+|---|---|---|
+| 🧠 **ASR Model for Haitian Creole** | Automatic Speech Recognition model for Zanmi chatbot. | `Python`, `VastAi`, `NLP` |
+| 🛒 **E-Commerce Platforms** | Full-stack web platforms for skincare & supplements. | `Laravel`, `PHP`, `MySQL` |
+| 🍽️ **Restaurant Management App** | Web app for restaurant operations management. | `PHP`, `HTML/JS/CSS`, `MySQL` |
+| 🤖 **AI Master's Portfolio** | Advanced projects in Vision, Generative AI, and MLOps. | `Deep Learning`, `Computer Vision` |
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:omaimaelhabti6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
