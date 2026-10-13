@@ -1,15 +1,15 @@
 <div align="center">
-  <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Oumaima%20Elhabti&fontSize=48&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20|%20Full-Stack%20AI%20Developer&descAlignY=55&descAlign=62" width="100%" />
+  <!-- Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Oumaima%20Elhabti&fontSize=48&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Full-Stack%20Builder&descAlignY=58" alt="Header banner" />
 
-  <!-- Animated Typing Tagline -->
+  <!-- Typing tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=AI+Engineering+Student+%7C+Full-Stack+Developer;Seeking+a+6-Month+PFE+Internship+in+AI+%2F+MLOps;Passionate+about+Deep+Learning%2C+Computer+Vision+%26+NLP;FastAPI+%E2%80%A2+React+%E2%80%A2+PyTorch+%E2%80%A2+MLOps+%E2%80%A2+YOLOv8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=850&lines=AI+Engineering+Student+%7C+Machine+Learning+Engineer+%7C+Full-Stack+Developer+%7C+MLOps+Enthusiast" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br />
 
-  <!-- Interactive Badges & Links -->
+  <!-- Social badges -->
   <p align="center">
     <a href="https://oumaima-elhabti.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-00ff88?style=for-the-badge&logo=safari&logoColor=0a0a0f&labelColor=0a0a0f" alt="Live Portfolio" />
@@ -23,7 +23,11 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Seeking_6--Month_PFE_Internship-00ff88?style=flat-square&logo=target&logoColor=00ff88&labelColor=0a0a0f" alt="Status Badge" />
+    <img src="https://img.shields.io/badge/Status-Seeking_6--Month_PFE_Internship-00ff88?style=flat-square&logo=target&logoColor=00ff88&labelColor=0a0a0f" alt="Status badge" />
+  </p>
+
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80+%7C+Open+for+collaboration+%F0%9F%91%8B" alt="status text" />
   </p>
 </div>
 
@@ -31,32 +35,32 @@
 
 ### 💫 About Me
 
-I am an ambitious **AI Engineering Student** with a solid foundation in both **Artificial Intelligence** and **Software Engineering**. My dual background allows me to train robust machine learning and deep learning models and deploy them into production-ready full-stack applications.
+Hello! I'm Oumaima Elhabti, an AI Engineering student with a strong interest in machine learning, computer vision, data engineering, and full-stack product development. I enjoy turning raw data and ideas into intelligent systems that create real impact.
 
-- 🚀 **Specialization:** AI Engineering & Full-Stack Development
-- 🧠 **AI Focus:** Deep Learning, Computer Vision, NLP, Generative AI, MLOps, and Big Data
-- 💻 **Software Focus:** Full-stack architectures, API design, microservices, and databases
-- 🏆 **Certifications:** Data Science & Cloud Computing, Git/GitHub
-- 🎯 **Current Goal:** **Seeking a 6-month PFE Internship in AI / Data Engineering / MLOps**
+- 🚀 Specialization: AI Engineering & Full-Stack Development
+- 🧠 AI Focus: Deep Learning, Computer Vision, NLP, Generative AI, MLOps, Big Data
+- 💻 Software Focus: APIs, microservices, automation, and scalable architectures
+- 🏆 Certifications: Data Science & Cloud Computing, Git/GitHub
+- 🎯 Current Goal: Seeking a 6‑month PFE internship in AI, Data Engineering, or MLOps
 
 ---
 
-### 🚀 My Tech Stack
+### 🚀 Tech Stack
 
 <div align="center">
   <h4>🤖 AI, Data & Machine Learning</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,r,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,r,matlab" alt="AI and ML tech stack" />
   </p>
 
-  <h4>🌐 Full-Stack & Backend Development</h4>
+  <h4>🌐 Full-Stack & Backend</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,typescript,javascript,nodejs,laravel,php" />
+    <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,typescript,javascript,nodejs,laravel,php" alt="Full-stack stack" />
   </p>
 
   <h4>🗄️ Databases, DevOps & Cloud</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,linux,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,linux,postman,figma" alt="Database and devops stack" />
   </p>
 </div>
 
@@ -65,7 +69,7 @@ I am an ambitious **AI Engineering Student** with a solid foundation in both **A
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oumaelha0000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oumaelha0000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub trophies" />
 </div>
 
 ---
@@ -73,30 +77,33 @@ I am an ambitious **AI Engineering Student** with a solid foundation in both **A
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumaelha0000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=e8e8f0&icon_color=00d4ff" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaelha0000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=e8e8f0" height="192px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oumaelha0000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=e8e8f0&icon_color=00d4ff" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaelha0000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=e8e8f0" height="180" alt="Top languages" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oumaelha0000&theme=tokyonight&background=0a0a0f&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=e8e8f0&currStreakNum=00d4ff&dates=8b8ba3&hide_border=true" width="60%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oumaelha0000&theme=tokyonight&background=0a0a0f&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=e8e8f0&currStreakNum=00d4ff" alt="GitHub streak" />
 </div>
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Repositories
 
-| Project | Description | Technologies |
+| Project | Description | Repository |
 |:---|:---|:---|
-| 🚗 **License Plate Recognition** | Real-time ANPR system detecting and extracting text (OCR) from vehicle license plates. | `YOLOv8` `EasyOCR` `FastAPI` `Python` |
-| 🤟 **Moroccan Sign Language Recognition** | Continuous gesture sequence recognition from real-time webcam video landmark streams. | `MediaPipe` `Bi-LSTM` `Streamlit` |
-| 🫀 **ECG Image Classification** | Deep Learning diagnostic model for automatic cardiovascular disease detection from ECG imaging. | `Python` `Deep Learning` `CNN` |
-| 🤖 **AI Academic Assistant** | Smart conversational assistant using RAG architecture, ChromaDB, and Google Gemini. | `FastAPI` `Next.js` `LangChain` |
-| 📊 **MacroIntel Platform** | Full-stack macroeconomic intelligence and predictive analytics platform. | `FastAPI` `React` `TypeScript` |
-| 🧠 **ASR Model for Haitian Creole** | Automatic Speech Recognition model trained on cloud GPUs for the Zanmi chatbot. | `Python` `VastAI` `NLP` |
-| 👁️ **Driver Drowsiness Detection** | Vision system computing eye-aspect ratios in real time to alert drowsy drivers. | `OpenCV` `Facial Landmarks` `Streamlit` |
-| 🎬 **Films Recommendation Engine** | Hybrid collaborative filtering and content-based recommendation system. | `Python` `Scikit-Learn` `Pandas` |
+| 🚜 Agrivision | AI-powered agricultural monitoring and crop analysis project. | [Repo](https://github.com/oumaelha0000/Agrivision) |
+| 🚗 License Plate Recognition | Real-time license plate OCR and detection system. | [Repo](https://github.com/oumaelha0000/License-Plate-Recognition-System) |
+| 🧠 Moroccan License Plate Recognition | Vision-based plate recognition model for Moroccan plates. | [Repo](https://github.com/oumaelha0000/moroccan-license-plate-recognition) |
+| 🎬 Films Recommendation | Recommendation engine using data-driven personalization. | [Repo](https://github.com/oumaelha0000/films_recommendation) |
+| 📊 MacroIntel Frontend | UI for a macroeconomic intelligence dashboard. | [Repo](https://github.com/oumaelha0000/macrointel-frontend) |
+| 🖥️ MacroIntel Backend | API and backend logic for macroeconomic analytics. | [Repo](https://github.com/oumaelha0000/macrointel-backend) |
+| 🤖 Chatbot AI Student Assistant | AI-powered assistant for student help and support workflows. | [Repo](https://github.com/oumaelha0000/Chatbot-AI-Student-Assistant) |
+| 🧬 Data Engineering | Data engineering experiments and pipelines. | [Repo](https://github.com/oumaelha0000/data-engineering) |
+| 🩺 Detecting_Cancer | Medical AI project focused on cancer detection. | [Repo](https://github.com/oumaelha0000/Detecting_Cancer) |
+| 🔗 Systeme-Evaluation-Stage-Blockchain | Blockchain / evaluation platform project. | [Repo](https://github.com/oumaelha0000/Systeme-Evaluation-Stage-Blockchain) |
+| 🤝 ldn1-ai-app | AI application prototype and experimentation project. | [Repo](https://github.com/oumaelha0000/ldn1-ai-app) |
 
 ---
 
@@ -112,4 +119,3 @@ I am an ambitious **AI Engineering Student** with a solid foundation in both **A
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
