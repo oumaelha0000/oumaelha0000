@@ -1,15 +1,22 @@
 <div align="center">
-  <!-- Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Oumaima%20Elhabti&fontSize=48&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Full-Stack%20Builder&descAlignY=58" alt="Header banner" />
+  <!-- Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Oumaima%20Elhabti&fontSize=48&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Full-Stack%20Builder%20%7C%20PFE%20Internship%20Seeker&descAlignY=58" width="100%" alt="Header banner" />
 
-  <!-- Typing tagline -->
+  <!-- Animated Typing Tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=850&lines=AI+Engineering+Student+%7C+Machine+Learning+Engineer+%7C+Full-Stack+Developer+%7C+MLOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=850&lines=AI+Engineering+Student+%7C+Machine+Learning+Engineer;%F0%9F%8E%AF+Seeking+a+6-Month+PFE+Internship+(AI+%2F+MLOps+%2F+Data);Full-Stack+AI+Developer+%7C+Computer+Vision+%26+NLP;Building+Intelligent+End-to-End+Systems+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- Social badges -->
+  <!-- Prominent PFE Availability Badge -->
+  <p align="center">
+    <a href="mailto:omaimaelhabti6@gmail.com">
+      <img src="https://img.shields.io/badge/🎯_PFE_Internship-Open_to_6--Month_Opportunities_(AI%2FData%2FMLOps)-00ff88?style=for-the-badge&logoColor=0a0a0f&labelColor=0a0a0f" alt="PFE Status Badge" />
+    </a>
+  </p>
+
+  <!-- Social & Portfolio Badges -->
   <p align="center">
     <a href="https://oumaima-elhabti.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-00ff88?style=for-the-badge&logo=safari&logoColor=0a0a0f&labelColor=0a0a0f" alt="Live Portfolio" />
@@ -22,12 +29,9 @@
     </a>
   </p>
 
+  <!-- Secondary Dynamic Status -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Seeking_6--Month_PFE_Internship-00ff88?style=flat-square&logo=target&logoColor=00ff88&labelColor=0a0a0f" alt="Status badge" />
-  </p>
-
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80+%7C+Open+for+collaboration+%F0%9F%91%8B" alt="status text" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Ready+for+PFE+Internship+Interviews+%F0%9F%9A%80+%7C+Open+for+Collaborations+%F0%9F%91%8B;Passionate+about+solving+real-world+challenges+with+AI+%E2%9A%A1" alt="Status text" />
   </p>
 </div>
 
@@ -35,13 +39,13 @@
 
 ### 💫 About Me
 
-Hello! I'm Oumaima Elhabti, an AI Engineering student with a strong interest in machine learning, computer vision, data engineering, and full-stack product development. I enjoy turning raw data and ideas into intelligent systems that create real impact.
+Hello! I'm **Oumaima Elhabti**, an ambitious **AI Engineering student** with a strong passion for machine learning, computer vision, data engineering, and full-stack product development. I enjoy turning complex data and research into production-ready intelligent systems that deliver measurable real-world impact.
 
-- 🚀 Specialization: AI Engineering & Full-Stack Development
-- 🧠 AI Focus: Deep Learning, Computer Vision, NLP, Generative AI, MLOps, Big Data
-- 💻 Software Focus: APIs, microservices, automation, and scalable architectures
-- 🏆 Certifications: Data Science & Cloud Computing, Git/GitHub
-- 🎯 Current Goal: Seeking a 6‑month PFE internship in AI, Data Engineering, or MLOps
+- 🎯 **Current Objective:** **Actively seeking a 6-month PFE Internship in AI / Data Engineering / MLOps**
+- 🚀 **Specialization:** Artificial Intelligence Engineering & Full-Stack Development
+- 🧠 **AI Focus:** Deep Learning, Computer Vision, NLP, Generative AI, MLOps, and Big Data
+- 💻 **Software Focus:** Robust APIs, microservices, cloud deployments, and scalable architectures
+- 🏆 **Certifications:** Data Science & Cloud Computing, Git/GitHub
 
 ---
 
@@ -93,26 +97,26 @@ Hello! I'm Oumaima Elhabti, an AI Engineering student with a strong interest in 
 
 | Project | Description | Repository |
 |:---|:---|:---|
-| 🚜 Agrivision | AI-powered agricultural monitoring and crop analysis project. | [Repo](https://github.com/oumaelha0000/Agrivision) |
-| 🚗 License Plate Recognition | Real-time license plate OCR and detection system. | [Repo](https://github.com/oumaelha0000/License-Plate-Recognition-System) |
-| 🧠 Moroccan License Plate Recognition | Vision-based plate recognition model for Moroccan plates. | [Repo](https://github.com/oumaelha0000/moroccan-license-plate-recognition) |
-| 🎬 Films Recommendation | Recommendation engine using data-driven personalization. | [Repo](https://github.com/oumaelha0000/films_recommendation) |
-| 📊 MacroIntel Frontend | UI for a macroeconomic intelligence dashboard. | [Repo](https://github.com/oumaelha0000/macrointel-frontend) |
-| 🖥️ MacroIntel Backend | API and backend logic for macroeconomic analytics. | [Repo](https://github.com/oumaelha0000/macrointel-backend) |
-| 🤖 Chatbot AI Student Assistant | AI-powered assistant for student help and support workflows. | [Repo](https://github.com/oumaelha0000/Chatbot-AI-Student-Assistant) |
-| 🧬 Data Engineering | Data engineering experiments and pipelines. | [Repo](https://github.com/oumaelha0000/data-engineering) |
-| 🩺 Detecting_Cancer | Medical AI project focused on cancer detection. | [Repo](https://github.com/oumaelha0000/Detecting_Cancer) |
-| 🔗 Systeme-Evaluation-Stage-Blockchain | Blockchain / evaluation platform project. | [Repo](https://github.com/oumaelha0000/Systeme-Evaluation-Stage-Blockchain) |
-| 🤝 ldn1-ai-app | AI application prototype and experimentation project. | [Repo](https://github.com/oumaelha0000/ldn1-ai-app) |
+| 🚜 **Agrivision** | AI-powered agricultural monitoring and crop health analysis platform. | [oumaelha0000/Agrivision](https://github.com/oumaelha0000/Agrivision) |
+| 🚗 **License Plate Recognition** | Real-time ANPR vehicle plate detection & OCR extraction pipeline. | [oumaelha0000/License-Plate-Recognition-System](https://github.com/oumaelha0000/License-Plate-Recognition-System) |
+| 🇲🇦 **Moroccan License Plate Recognition** | Computer vision model specifically optimized for Moroccan license plate detection. | [oumaelha0000/moroccan-license-plate-recognition](https://github.com/oumaelha0000/moroccan-license-plate-recognition) |
+| 🎬 **Films Recommendation Engine** | Recommendation system using personalized collaborative & content-based filtering. | [oumaelha0000/films_recommendation](https://github.com/oumaelha0000/films_recommendation) |
+| 📊 **MacroIntel Platform (Frontend)** | Modern reactive UI dashboard for macroeconomic intelligence analytics. | [oumaelha0000/macrointel-frontend](https://github.com/oumaelha0000/macrointel-frontend) |
+| 🖥️ **MacroIntel Platform (Backend)** | High-performance FastAPI backend engine for macro-data processing & forecasting. | [oumaelha0000/macrointel-backend](https://github.com/oumaelha0000/macrointel-backend) |
+| 🤖 **Chatbot AI Student Assistant** | RAG-based AI assistant for academic advising and student workflow support. | [oumaelha0000/Chatbot-AI-Student-Assistant](https://github.com/oumaelha0000/Chatbot-AI-Student-Assistant) |
+| 🧬 **Data Engineering Pipelines** | Production-ready ETL workflows, data warehousing, and automated pipelines. | [oumaelha0000/data-engineering](https://github.com/oumaelha0000/data-engineering) |
+| 🩺 **Detecting Cancer** | Medical Deep Learning diagnostic project focused on early cancer detection. | [oumaelha0000/Detecting_Cancer](https://github.com/oumaelha0000/Detecting_Cancer) |
+| ⛓️ **Blockchain Evaluation System** | Decentralized Web3 credential verification and internship evaluation system. | [oumaelha0000/Systeme-Evaluation-Stage-Blockchain](https://github.com/oumaelha0000/Systeme-Evaluation-Stage-Blockchain) |
+| 🤝 **LDN1 AI Application** | AI experimentation prototype and conversational system. | [oumaelha0000/ldn1-ai-app](https://github.com/oumaelha0000/ldn1-ai-app) |
 
 ---
 
 <div align="center">
-  <p>Let's build something intelligent together! 🚀</p>
-  <a href="https://oumaima-elhabti.netlify.app">
+  <p><strong>Let's build something intelligent together! 🚀</strong></p>
+  <a href="https://oumaima-elhabti.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-00ff88?style=for-the-badge&logo=safari&logoColor=0a0a0f&labelColor=0a0a0f" alt="Visit Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/oumaima-elhabti">
+  <a href="https://linkedin.com/in/oumaima-elhabti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:omaimaelhabti6@gmail.com">
